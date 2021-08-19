@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Roger
-- 👀 I’m interested in learning more about coding and trying out different projects using different languages.
-- 🌱 I’m currently learning Ruby and Ruby on Rails.
+- 👋
